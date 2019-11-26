@@ -1,0 +1,38 @@
+body{
+	background-image: url('bg.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	font-family: 'Permanent Marker', cursive;
+	color:white;
+
+}
+
+#overall{
+	background-color: rgba(0,0,0,0.7);
+}
+
+#first{
+	text-align: center;
+	font-size: 8em;
+	line-height: 90vh;
+	color:purple;
+	text-shadow: 2px 2px white;
+	font-family: 'Permanent Marker', cursive;
+}
+
+section{
+
+	height: 100vh;
+}
+
+h1{
+	color:purple;
+	text-shadow: 2px 2px white;
+
+}
+pre{
+	color:white;
+}
+
